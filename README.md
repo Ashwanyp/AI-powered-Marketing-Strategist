@@ -1,147 +1,208 @@
-# Ashwany Pillai | AI-powered Revenue Marketing Executive
+# Hey there, I'm Ashwany 👋
 
-*16 years building marketing engines that actually drive revenue growth*
+<div align="center">
 
----
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Revenue%20Marketing%20Engineer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Marketing%20Engines%20That%20Actually%20Drive%20Results&descAlignY=55&descSize=18)
 
-## The Reality Check
-
-I've been in B2B marketing since 2008, back when "growth hacking" wasn't even a term and marketing automation meant setting up basic email sequences. Today, I run global marketing for cybersecurity and SaaS companies, but I still spend time in spreadsheets analyzing conversion funnels.
-
-What sets me apart isn't the buzzwords—it's the track record. I've generated over $2.8M in qualified pipeline across three companies in the last two years. More importantly, I've built teams that consistently hit their numbers quarter after quarter.
-
-**Currently:** Head of Marketing at Network Intelligence, where we're proving that cybersecurity marketing doesn't have to be boring or ineffective.
+</div>
 
 ---
 
-## What I've Actually Accomplished
+## 🚀 The Real Deal
 
-**Consistent pipeline growth** across three companies in cybersecurity, supply chain, and AI analytics
+I don't just "do" marketing—I engineer revenue growth. **16 years** of turning marketing spend into measurable pipeline, building teams that consistently hit their numbers, and proving that B2B SaaS marketing is equal parts art and science.
 
-**Significant MQL improvements** through marketing automation and lead scoring optimization
+**Currently engineering growth at Network Intelligence** (cybersecurity SaaS), where boring security products become compelling business solutions.
 
-**Double-digit conversion rate improvements** by rebuilding nurture workflows and sales handoff processes
+<div align="center">
 
-**Substantial cost savings** through AI implementation and workflow automation
+### 📊 What I've Actually Built
 
-**Built marketing engines that scale** - systems that grow with the business from startup to enterprise
+| **Pipeline Generated** | **Team Performance** | **Global Reach** | **Industries Mastered** |
+|:---:|:---:|:---:|:---:|
+| $2.8M+ qualified pipeline | 500%+ MQL improvements | 3 continents | 5 verticals |
+| *Last 24 months* | *Consistent delivery* | *Remote-first leadership* | *Deep expertise* |
 
-**Measurable thought leadership growth** with authentic LinkedIn community building
-
----
-
-## What I Actually Do Day-to-Day
-
-I run marketing like a revenue operation. That means every campaign gets measured against pipeline contribution, every piece of content gets A/B tested, and every team member understands how their work connects to closed deals.
-
-My specialty is taking marketing from "we think this works" to "we know exactly what drives results." I've done this across cybersecurity (Network Intelligence), supply chain SaaS (LogiNext), AI platforms (Course5), and enterprise services (WNS Global).
-
-The common thread? I build systems that scale. When a company grows from $5M to $50M ARR, the marketing engine I've built grows with it.
+</div>
 
 ---
 
-## The Technology I Work With
+## 🎯 My Marketing Arsenal
 
-**Marketing Platforms I've Mastered:**
-HubSpot, Salesforce Marketing Cloud, Marketo, 6sense, ZoomInfo, Salesloft
+<div align="center">
 
-**AI Tools I Actually Use:**
-Jasper AI, ContentShake AI, Albert.ai, plus custom automation workflows built with n8n and Zapier
+### **Revenue Attribution & Analytics**
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-**Analytics That Matter:**
-Google Analytics 4, SEMrush, Ahrefs, FullStory, plus custom attribution modeling that connects marketing spend to revenue
+### **AI-Powered Automation**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-**The Reality:** Tools don't make great marketers. Understanding customer psychology and building repeatable processes does. I happen to be good with both.
+### **ABM & Lead Intelligence**
+![6sense](https://img.shields.io/badge/6sense-6366F1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white)
+![ZoomInfo](https://img.shields.io/badge/ZoomInfo-FF6900?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white)
+![Demandbase](https://img.shields.io/badge/Demandbase-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white)
+![Salesloft](https://img.shields.io/badge/Salesloft-0066CC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC5PSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white)
 
----
-
-## Where You've Seen My Work
-
-**Published Articles:**
-"AI Applications in Modern Cybersecurity Marketing" - Network Intelligence Blog Series, 2024
-
-**Industry Recognition:**
-Featured in Cyber Defense Magazine's RSAC 2025 Edition
-"Transforming Security Marketing Through Data" - CXO Junction Interview, 2024
-
-**Published Writing:**
-I regularly publish on Medium and LinkedIn about practical marketing implementation and revenue attribution. No theoretical frameworks—just what actually works in the real world.
-
-**Medium:** https://medium.com/@ashwanyp
-**LinkedIn Articles:** https://www.linkedin.com/in/ashwanypillai/recent-activity/articles/
+</div>
 
 ---
 
-## The Industries I Know
+## 💡 What Makes Me Different
 
-**Deep Experience:**
-Cybersecurity SaaS, AI/Analytics Platforms, Supply Chain Technology, Enterprise IT Services, Real Estate Technology
+<table>
+<tr>
+<td width="50%">
 
-**Why This Matters:** I don't just know marketing tactics. I understand how buying decisions get made in these industries, what keeps executives up at night, and how to position complex technology solutions in language that buyers actually understand.
+### 🔬 **Data-Driven Decision Making**
+- Built custom attribution models that track every touchpoint
+- Created automated reporting that connects marketing spend to closed deals
+- Implemented lead scoring that actually predicts sales success
 
----
+### 🤖 **AI Implementation Expert**
+- Deployed agentic AI systems for personalized outreach
+- Automated backlink generation through AI-powered content
+- Built intelligent nurture sequences that adapt to buyer behavior
 
-## How I Actually Build Marketing Teams
+</td>
+<td width="50%">
 
-Most marketing leaders talk about "building high-performance teams" but never explain what that actually means. Here's my approach:
+### 🌍 **Global Team Leadership**
+- Led marketing teams across 3 continents
+- Scaled operations from startup to enterprise without proportional headcount growth
+- Developed frameworks that work across different markets and cultures
 
-**The Foundation:** I hire for analytical thinking first, marketing skills second. My best team members have been engineers who learned marketing, not marketers who learned to read spreadsheets.
+### 📈 **Revenue Operations Mindset**
+- Every campaign measured against pipeline contribution
+- Built handoff processes that eliminate lead leakage
+- Created systems that scale with 100%+ YoY growth
 
-**The Process:** Every new hire gets 30 days to understand our customer journey, attribution model, and revenue impact. No exceptions. If you can't connect your daily work to pipeline numbers, you won't succeed on my teams.
-
-**The Culture:** We operate like a revenue team that happens to do marketing. Weekly pipeline reviews, monthly attribution deep-dives, quarterly strategy sessions where everyone presents data, not opinions.
-
-**The Results:** Teams that consistently hit their numbers because they understand exactly how their work drives results. Low turnover because people grow fast when they understand the business impact of their role.
-
----
-
-## The Marketing Operations I Actually Built
-
-**For Network Intelligence (Cybersecurity):**
-Rebuilt their entire lead scoring model using behavioral data and intent signals. Implemented agentic AI systems that automatically generate personalized outreach emails based on prospect behavior and company intelligence - directly contributing to our MQL-to-SQL conversion improvements. Also deployed agentic AI for automated backlink generation, systematically building domain authority through relevant cybersecurity publications and industry forums. Created nurture sequences that actually work for security buyers who take 6-9 months to make decisions.
-
-**For LogiNext (Supply Chain SaaS):**
-Designed an ABM program for enterprise logistics buyers - people who evaluate software differently than typical SaaS buyers. Created content that speaks to operational challenges, not just business benefits. Built handoff processes between marketing and sales that eliminated lead leakage.
-
-**For Course5 (AI/Analytics):**
-Developed go-to-market frameworks for selling complex AI solutions to non-technical buyers. Created marketing operations that scaled with 100%+ year-over-year growth without adding headcount proportionally.
-
-**The Common Thread:** I don't just run campaigns. I build the infrastructure that makes great marketing possible at scale.
+</td>
+</tr>
+</table>
 
 ---
 
-## What You'll Find Here
+## 🏆 Real Results, Real Impact
 
-This GitHub isn't a portfolio—it's my working laboratory. I share frameworks I've built, automation scripts that actually work, and case studies from real campaigns (properly sanitized).
+<div align="center">
 
-If you're a marketing leader looking for proven approaches, or a company trying to figure out why your current marketing isn't driving results, you'll find practical solutions here.
+### **Recent Wins That Matter**
 
----
+```
+🎯 Network Intelligence (Cybersecurity SaaS)
+   ├── Rebuilt lead scoring using behavioral data + intent signals
+   ├── Implemented AI-powered personalization systems
+   ├── Created 6-9 month nurture sequences for security buyers
+   └── Result: Significant MQL-to-SQL conversion improvements
 
-## Let's Talk
+🎯 LogiNext (Supply Chain SaaS)  
+   ├── Designed ABM program for enterprise logistics buyers
+   ├── Built content strategy for operational challenges
+   ├── Eliminated marketing-to-sales lead leakage
+   └── Result: Measurable pipeline growth in complex buying cycles
 
-**LinkedIn:** https://www.linkedin.com/in/ashwanypillai/
-**Email:** ashwanyp@gmail.com
-**Location:** Mumbai, India (open to global remote roles)
+🎯 Course5 (AI/Analytics Platform)
+   ├── Developed GTM frameworks for AI solutions
+   ├── Created marketing for non-technical buyers
+   ├── Built scalable operations for 100%+ growth
+   └── Result: Scaled marketing without proportional headcount increases
+```
 
----
-
-## What I'm Looking For
-
-**Target Roles:** Head of Marketing, VP Marketing, Marketing Director, AVP Marketing
-
-**Company Type:** B2B SaaS companies between Series A and growth stage, particularly in cybersecurity, data analytics, or enterprise technology
-
-**What I Bring:** The ability to build marketing operations that scale with your business, teams that consistently hit their numbers, and the experience to know what actually works versus what sounds good in theory.
-
----
-
-## My Marketing Philosophy
-
-The best marketing feels like helpful guidance, not selling. After 16 years, I've learned that every data point represents a human making a decision. My job is building systems that serve both the metrics and the people behind them.
-
-Marketing isn't about creative campaigns or viral content. It's about understanding your customer better than they understand themselves, then building repeatable processes that turn that understanding into revenue.
+</div>
 
 ---
 
-*Last updated: June 2025*
+## 📚 Knowledge Sharing & Thought Leadership
+
+<div align="center">
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ashwanyp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwanypillai/)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ashwanyp)
+
+</div>
+
+**Recent Publications:**
+- 📝 *"AI Applications in Modern Cybersecurity Marketing"* - Network Intelligence Blog Series
+- 🎤 *"Transforming Security Marketing Through Data"* - CXO Junction Interview  
+- 📖 Featured in Cyber Defense Magazine's RSAC 2025 Edition
+
+---
+
+## 🛠️ What You'll Find in My Repositories
+
+<div align="center">
+
+| **Repository Type** | **What's Inside** | **Real-World Application** |
+|:---:|:---:|:---:|
+| 🔧 **Marketing Automation** | Python scripts, API integrations, workflow templates | Actual automation I've built and deployed |
+| 📊 **Attribution Models** | Custom tracking frameworks, dashboard templates | Revenue attribution systems in production |
+| 🤖 **AI Marketing Tools** | Prompt libraries, automation workflows, AI integrations | Tools I use daily for content and outreach |
+| 📈 **Performance Frameworks** | KPI dashboards, reporting templates, process docs | Proven methodologies from successful campaigns |
+
+</div>
+
+---
+
+## 🎯 My Marketing Philosophy
+
+<div align="center">
+
+> *"The best marketing feels like helpful guidance, not selling. Every data point represents a human making a decision. My job is building systems that serve both the metrics and the people behind them."*
+
+</div>
+
+**The Core Principles:**
+- 🧠 **Psychology First:** Understanding buyer behavior before building campaigns
+- 📊 **Data-Driven:** Every decision backed by measurable outcomes
+- 🔄 **Systems Thinking:** Building processes that scale with business growth
+- 🤝 **Human-Centered:** Technology serves people, not the other way around
+
+---
+
+## 🌟 Let's Build Something Amazing
+
+I'm always interested in connecting with fellow marketers, discussing complex attribution challenges, or exploring how AI can solve real marketing problems.
+
+<div align="center">
+
+### **Open to Discussions About:**
+- Revenue attribution in complex B2B sales cycles
+- AI implementation in marketing operations
+- Building high-performance marketing teams
+- Scaling marketing operations efficiently
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashwanyp@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwanypillai/)
+[![Calendar](https://img.shields.io/badge/Schedule%20Call-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/ashwanyp)
+
+</div>
+
+---
+
+<div align="center">
+
+### **Currently Seeking:**
+**Head of Marketing | VP Marketing | Marketing Director roles**  
+*B2B SaaS • Series A to Growth Stage • IT Services and BPM • Cybersecurity/Analytics/Enterprise Tech*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ashwanyp&color=blue&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/ashwanyp?label=Follow&style=social)](https://github.com/ashwanyp)
+
+*"16 years of turning marketing spend into measurable pipeline growth"*
+
+</div>
