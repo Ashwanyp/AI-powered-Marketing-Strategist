@@ -314,21 +314,6 @@ I hire analytical minds who understand business fundamentals first, marketing ta
 - Present results to leadership with revenue impact analysis
 - Propose next iteration based on data, not opinions
 
-### 🏆 **The Operations: Revenue Team Culture**
-
-**Weekly Pipeline Reviews:** Every marketing person presents their contribution to current quarter pipeline. No vanity metrics allowed.
-
-**Monthly Attribution Deep-Dives:** We analyze every significant deal to understand the marketing journey that led to closure.
-
-**Quarterly Strategy Sessions:** Everyone presents data-driven insights about their area. Junior people often have the best ideas because they're closest to the execution.
-
-### 📈 **The Results: Industry-Leading Performance**
-
-- **100% First-Year Retention:** When people see the direct business impact of their work, they don't leave
-- **2x Faster Skill Development:** Learning in a revenue-focused environment accelerates everything
-- **Higher Internal Mobility:** My team members regularly get promoted to VP and CMO roles
-- **Consistent Goal Achievement:** Teams that understand revenue contribution consistently hit their numbers
-
 ---
 
 ## 🧪 My Marketing Laboratory
