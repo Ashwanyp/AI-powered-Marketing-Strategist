@@ -3,7 +3,7 @@
   <h1>Ashwany Pillai</h1>
   <h2>Revenue Marketing Director</h2>
   <h3>16+ Years | Multi-Million Dollar Pipeline Generated</h3>
-  <p>AI-Powered | Global Scale | Results Guaranteed</p>
+  <p>AI-Powered | Global Scale | Data-driven Results Oriented</p>
 </div>
 
 ---
