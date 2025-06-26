@@ -415,7 +415,7 @@ I write about what actually works in B2B marketing—**no theoretical frameworks
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=After%2016%20years,%20I've%20learned%20that%20every%20data%20point%20represents%20a%20human%20making%20a%20decision.%20The%20best%20marketing%20serves%20both%20the%20metrics%20and%20the%20people%20behind%20them.&author=Ashwany%20Pillai"/>
 
 </div>
-
+<br/>
 Marketing isn't about creative campaigns or viral content. It's about understanding your customer better than they understand themselves, then building repeatable systems that turn that understanding into predictable revenue growth.
 
 The companies that win are those that treat marketing as a revenue operation, not a cost center.
