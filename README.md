@@ -207,7 +207,7 @@ I build marketing engines that generate consistent, predictable pipeline month a
 <img src="https://img.shields.io/badge/🇪🇺-Europe-green?style=for-the-badge&labelColor=000000"/>
 <br><strong>• UK • Germany</strong>
 <br><strong>France • Nordics</strong>
-<br><em>GDPR Compliant</em>
+<br><em>GDPR Compliant</em><br/><br/>
 </td>
 <td align="center" width="20%">
 <img src="https://img.shields.io/badge/🇸🇬-APAC-red?style=for-the-badge&labelColor=000000"/>
@@ -219,13 +219,13 @@ I build marketing engines that generate consistent, predictable pipeline month a
 <img src="https://img.shields.io/badge/🌍-Emerging-purple?style=for-the-badge&labelColor=000000"/>
 <br><strong>• LATAM • MEA</strong>
 <br><strong>• SEA Markets</strong>
-<br><em>Growth Markets</em>
+<br><em>Growth Markets</em><br/><br/>
 </td>
 <td align="center" width="20%">
 <img src="https://img.shields.io/badge/📊-Analytics-orange?style=for-the-badge&labelColor=000000"/>
 <br><strong>Cross-Geo</strong>
 <br><strong>Attribution</strong>
-<br><em>Unified Reporting</em>
+<br><em>Unified Reporting</em><br/><br/>
 </td>
 </tr>
 </table>
