@@ -472,7 +472,7 @@ The companies that win are those that treat marketing as a revenue operation, no
 
 ### 🌟 **Perfect For**
 
-**🎯 B2B SaaS Companies • 📊 Cybersecurity & Analytics Platforms • 🌍 Global Expansion Plans • 🤖 AI-First Organizations**
+**🎯 B2B SaaS Companies • 📊 Cybersecurity, IT Services & Analytics Platforms • 🌍 Global Expansion Plans • 🤖 AI-First Organizations**
 
 ### 📞 **Let's Connect**
 
