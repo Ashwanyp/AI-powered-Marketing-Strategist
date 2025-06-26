@@ -431,7 +431,7 @@ The companies that win are those that treat marketing as a revenue operation, no
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/🏆-VP%20Marketing-00C853?style=for-the-badge&logo=crown&logoColor=white"/>
+<img src="https://img.shields.io/badge/🏆-VP/AVP%20Marketing-00C853?style=for-the-badge&logo=crown&logoColor=white"/>
 <br><strong>Executive Leadership</strong>
 <br><em>Series B+ SaaS companies<br/>ready to scale marketing<br/>operations globally</em>
 </td>
