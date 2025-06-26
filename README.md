@@ -164,7 +164,7 @@ I build marketing engines that generate consistent, predictable pipeline month a
 ![6sense](https://img.shields.io/badge/6sense%20Expert-6366F1?style=for-the-badge&logo=target&logoColor=white )
 ![ZoomInfo](https://img.shields.io/badge/ZoomInfo%20Advanced-FF6900?style=for-the-badge&logo=zoominfo&logoColor=white )
 ![Outreach](https://img.shields.io/badge/Outreach.io-5865F2?style=for-the-badge&logo=outreach&logoColor=white )
-![Salesloft](https://img.shields.io/badge/Salesloft%20Certified-0066CC?style=for-the-badge&logo=salesforce&logoColor=white )
+![Salesloft](https://img.shields.io/badge/Salesloft%20-0066CC?style=for-the-badge&logo=salesforce&logoColor=white )
 ![Leadfeeder](https://img.shields.io/badge/Leadfeeder-00B289?style=for-the-badge&logo=leadfeeder&logoColor=white )
 ![Leadforensics](https://img.shields.io/badge/Leadforensics-000000?style=for-the-badge&logo=googleanalytics&logoColor=white )
 
