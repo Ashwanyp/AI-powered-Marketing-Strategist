@@ -8,7 +8,7 @@
 
 ---
 
-# 🎯 The Marketing Revenue Engineer Who Delivers
+# The Marketing Revenue Engineer Who Delivers
 
 I don't just run marketing campaigns—**I build revenue machines**. Since 2008, I've been the marketing leader companies call when they need someone who can turn marketing spend into predictable pipeline growth.
 
@@ -47,25 +47,25 @@ Currently **Head of Marketing at Network Intelligence** 🛡️, where I've tran
 
 ---
 
-## 🚀 What I Actually Deliver
+## What I Actually Deliver
 
 Most marketers talk about "brand awareness" and "engagement." I deliver **qualified pipeline** and **predictable revenue growth**. Here's how:
 
-### 🔥 **Revenue Attribution That Actually Works**
+### **Revenue Attribution That Actually Works**
 I build custom tracking systems that connect every marketing touchpoint to closed revenue. No more guessing which campaigns work—I show you exactly where your best customers come from and how to get more of them.
 
-### 🤖 **AI-Powered Marketing Automation**
+### **AI-Powered Marketing Automation**
 I implement AI systems that personalize outreach at scale, predict customer behavior, and automate repetitive tasks. While your competitors are still manually sending emails, my systems are nurturing prospects with personalized sequences that convert.
 
-### 🌍 **Multi-Geo Campaign Mastery**
+### **Multi-Geo Campaign Mastery**
 I've successfully launched and scaled marketing campaigns across North America, Europe, APAC, and emerging markets. I understand the cultural nuances, compliance requirements, and local buying behaviors that make or break international expansion.
 
-### 📊 **Pipeline Predictability**
+### **Pipeline Predictability**
 I build marketing engines that generate consistent, predictable pipeline month after month. My teams hit their numbers because I've eliminated the guesswork from demand generation.
 
 <div align="center">
 
-### 💡 **My Unique Advantage**
+### **My Unique Advantage**
 
 <table>
 <tr>
@@ -91,47 +91,47 @@ I build marketing engines that generate consistent, predictable pipeline month a
 
 ---
 
-## 🏆 Proven Results Across Industries
+## Proven Results Across Industries
 
 <div align="center">
 
-### 🚀 **My Company Impact**
+### **My Company Impact**
 
 <table>
 <tr>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/Network%20Intelligence-Cybersecurity-DC143C?style=for-the-badge&logo=shield&logoColor=white"/>
 <br><strong>Current Role</strong>
-<br><em>🔒 Enterprise Security SaaS</em>
+<br><em> Enterprise Security SaaS</em>
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/LogiNext-Supply%20Chain-1E88E5?style=for-the-badge&logo=truck&logoColor=white"/>
 <br><strong>Previous Role</strong>
-<br><em>🚛 Global Logistics Platform</em>
+<br><em> Global Logistics Platform</em>
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/Course5-AI%20Analytics-7B1FA2?style=for-the-badge&logo=brain&logoColor=white"/>
 <br><strong>Previous Role</strong>
-<br><em>🧠 Enterprise AI Solutions</em>
+<br><em> Enterprise AI Solutions</em>
 </td>
 </tr>
 </table>
 
 </div>
 
-### 🛡️ **Network Intelligence** *(Enterprise Cybersecurity)*
+### **Network Intelligence** *(Enterprise Cybersecurity)*
 **Challenge:** Traditional security marketing wasn't reaching decision-makers
 - **Solution:** Built AI-driven intent detection system identifying prospects researching security solutions
 - **Result:** 340% increase in qualified leads, 67% reduction in sales cycle length
 - **Innovation:** Created automated threat intelligence content that positions us as thought leaders
 
-### 🚛 **LogiNext** *(Global Supply Chain SaaS)*
+### **LogiNext** *(Global Supply Chain SaaS)*
 **Challenge:** Complex B2B buying process with multiple stakeholders across regions
 - **Solution:** Developed multi-touch ABM campaigns with localized content for each geo
 - **Result:** Eliminated 100% of marketing-to-sales lead leakage, 89% increase in pipeline velocity
 - **Innovation:** Built predictive models identifying accounts most likely to expand
 
-### 🧠 **Course5** *(AI/Analytics Platform)*
+### **Course5** *(AI/Analytics Platform)*
 **Challenge:** Explaining complex AI capabilities to non-technical buyers
 - **Solution:** Created outcome-based messaging framework with ROI calculators
 - **Result:** Marketing operations scaled 200% without proportional team growth
@@ -139,11 +139,11 @@ I build marketing engines that generate consistent, predictable pipeline month a
 
 ---
 
-## 🛠️ My Advanced Marketing Technology Arsenal
+## My Advanced Marketing Technology Arsenal
 
 <div align="center">
 
-### 🎯 **Core Marketing Infrastructure**
+### **Core Marketing Infrastructure**
 ![HubSpot](https://img.shields.io/badge/HubSpot%20Expert-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white )
 ![Salesforce](https://img.shields.io/badge/Salesforce%20Certified-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white )
 ![Marketo](https://img.shields.io/badge/Marketo%20Specialist-5C4C9F?style=for-the-badge&logo=adobe&logoColor=white )
@@ -151,7 +151,7 @@ I build marketing engines that generate consistent, predictable pipeline month a
 ![ActiveCampaign](https://img.shields.io/badge/ActiveCampaign-2C72B4?style=for-the-badge&logo=activecampaign&logoColor=white )
 ![Eloqua](https://img.shields.io/badge/Eloqua-E00000?style=for-the-badge&logo=oracle&logoColor=white )
 
-### 🤖 **AI & Content Tools**
+### **AI & Content Tools**
 ![OpenAI](https://img.shields.io/badge/OpenAI%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white )
 ![Jasper AI](https://img.shields.io/badge/Jasper%20AI-000000?style=for-the-badge&logo=robotframework&logoColor=white )
 ![Surfer SEO](https://img.shields.io/badge/Surfer%20SEO-1A1A1A?style=for-the-badge&logo=semrush&logoColor=white )
@@ -160,7 +160,7 @@ I build marketing engines that generate consistent, predictable pipeline month a
 ![AdCreative.ai](https://img.shields.io/badge/AdCreative.ai-FF4500?style=for-the-badge&logo=googleads&logoColor=white )
 ![Notion AI](https://img.shields.io/badge/Notion%20AI-000000?style=for-the-badge&logo=notion&logoColor=white )
 
-### 📈 **Sales Enablement & ABM**
+### **Sales Enablement & ABM**
 ![6sense](https://img.shields.io/badge/6sense%20Expert-6366F1?style=for-the-badge&logo=target&logoColor=white )
 ![ZoomInfo](https://img.shields.io/badge/ZoomInfo%20Advanced-FF6900?style=for-the-badge&logo=zoominfo&logoColor=white )
 ![Outreach](https://img.shields.io/badge/Outreach.io-5865F2?style=for-the-badge&logo=outreach&logoColor=white )
@@ -168,7 +168,7 @@ I build marketing engines that generate consistent, predictable pipeline month a
 ![Leadfeeder](https://img.shields.io/badge/Leadfeeder-00B289?style=for-the-badge&logo=leadfeeder&logoColor=white )
 ![Leadforensics](https://img.shields.io/badge/Leadforensics-000000?style=for-the-badge&logo=googleanalytics&logoColor=white )
 
-### 📊 **Advanced Analytics & Attribution**
+### **Advanced Analytics & Attribution**
 ![Google Analytics](https://img.shields.io/badge/GA4%20Expert-E37400?style=for-the-badge&logo=google-analytics&logoColor=white )
 ![SEMrush](https://img.shields.io/badge/SEMrush-FF642B?style=for-the-badge&logo=semrush&logoColor=white )
 ![Ahrefs](https://img.shields.io/badge/Ahrefs-2D333B?style=for-the-badge&logo=ahrefs&logoColor=white )
@@ -178,7 +178,7 @@ I build marketing engines that generate consistent, predictable pipeline month a
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black )
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white )
 
-### ⚡ **Automation & Integration**
+### **Automation & Integration**
 ![Zapier](https://img.shields.io/badge/Zapier%20Expert-FF4A00?style=for-the-badge&logo=zapier&logoColor=white )
 ![n8n](https://img.shields.io/badge/n8n%20Advanced-EA4B71?style=for-the-badge&logo=n8n&logoColor=white )
 ![Make](https://img.shields.io/badge/Make.com-6366F1?style=for-the-badge&logo=integromat&logoColor=white )
@@ -190,11 +190,11 @@ I build marketing engines that generate consistent, predictable pipeline month a
 
 ---
 
-## 🌍 Global Marketing Excellence
+## Global Marketing Excellence
 
 <div align="center">
 
-### 🗺️ **Multi-Geo Campaign Mastery**
+### **Multi-Geo Campaign Mastery**
 
 <table>
 <tr>
@@ -244,9 +244,9 @@ I build marketing engines that generate consistent, predictable pipeline month a
 
 ---
 
-## 🧠 AI-Powered Marketing Innovation
+## AI-Powered Marketing Innovation
 
-### 🤖 **My AI Implementation Framework**
+### **My AI Implementation Framework**
 
 <div align="center">
 
@@ -286,18 +286,18 @@ I build marketing engines that generate consistent, predictable pipeline month a
 
 ---
 
-## 👑 How I Build World-Class Marketing Teams
+## How I Build World-Class Marketing Teams
 
 I don't just hire marketers—I build **revenue-generating machines** disguised as marketing teams. Here's my proven system:
 
-### 🎯 **The Foundation: Revenue-First Hiring**
+### **The Foundation: Revenue-First Hiring**
 I hire analytical minds who understand business fundamentals first, marketing tactics second. My best performers have been:
 - **Former Engineers** who learned marketing and bring systematic thinking
 - **Ex-Consultants** who understand business problems before marketing solutions  
 - **Sales Veterans** who moved to marketing and understand the full funnel
 - **Data Analysts** who discovered they love customer psychology
 
-### 📚 **The Onboarding: 30-Day Revenue Immersion**
+### **The Onboarding: 30-Day Revenue Immersion**
 
 **Week 1-2: Customer Reality Check**
 - Shadow 10+ customer calls or support tickets to learn problems in prospects' own words
@@ -316,11 +316,11 @@ I hire analytical minds who understand business fundamentals first, marketing ta
 
 ---
 
-## 🧪 My Marketing Laboratory
+## My Marketing Laboratory
 
 <div align="center">
 
-### 🔬 **What You'll Find Here**
+### **What You'll Find Here**
 
 <table>
 <tr>
@@ -353,11 +353,11 @@ This isn't a showcase—it's my **active laboratory** where I test, refine, and 
 
 ---
 
-## 🏆 Industry Recognition & Thought Leadership
+## Industry Recognition & Thought Leadership
 
 <div align="center">
 
-### 🎖️ **Recent Publications & Features**
+### **Recent Publications & Features**
 
 <table>
 <tr>
@@ -382,7 +382,7 @@ This isn't a showcase—it's my **active laboratory** where I test, refine, and 
 </tr>
 </table>
 
-### 📖 **Regular Thought Leadership**
+### **Regular Thought Leadership**
 
 [![Medium](https://img.shields.io/badge/Medium%20Expert-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ashwanyp)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20Influencer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwanypillai/recent-activity/articles/)
@@ -393,7 +393,7 @@ I write about what actually works in B2B marketing—**no theoretical frameworks
 
 ---
 
-## 💭 My Marketing Philosophy
+## My Marketing Philosophy
 
 <div align="center">
 
@@ -407,11 +407,11 @@ The companies that win are those that treat marketing as a revenue operation, no
 
 ---
 
-## 🚀 Ready to Transform Your Marketing?
+## Ready to Transform Your Marketing?
 
 <div align="center">
 
-### 🎯 **Currently Available For**
+### **Currently Available For**
 
 <table>
 <tr>
@@ -433,7 +433,7 @@ The companies that win are those that treat marketing as a revenue operation, no
 </tr>
 </table>
 
-### 💪 **What I Bring To Your Company**
+### **What I Bring To Your Company**
 
 <table>
 <tr>
@@ -455,7 +455,7 @@ The companies that win are those that treat marketing as a revenue operation, no
 </tr>
 </table>
 
-### 🌟 **Perfect For**
+### **Perfect For**
 
 **🎯 B2B SaaS Companies • 📊 Cybersecurity, IT Services & Analytics Platforms • 🌍 Global Expansion Plans • 🤖 AI-First Organizations**
 
