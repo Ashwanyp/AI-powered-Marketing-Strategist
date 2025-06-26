@@ -145,10 +145,10 @@ I build marketing engines that generate consistent, predictable pipeline month a
 
 ### **Core Marketing Infrastructure**
 ![HubSpot](https://img.shields.io/badge/HubSpot%20Expert-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white )
-![Salesforce](https://img.shields.io/badge/Salesforce%20Certified-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white )
+![Salesforce](https://img.shields.io/badge/Salesforce%20-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white )
 ![Marketo](https://img.shields.io/badge/Marketo%20Specialist-5C4C9F?style=for-the-badge&logo=adobe&logoColor=white )
-![Pardot](https://img.shields.io/badge/Pardot%20Advanced-0070D2?style=for-the-badge&logo=salesforce&logoColor=white )
-![ActiveCampaign](https://img.shields.io/badge/ActiveCampaign-2C72B4?style=for-the-badge&logo=activecampaign&logoColor=white )
+![Pardot](https://img.shields.io/badge/Pardot%20-0070D2?style=for-the-badge&logo=salesforce&logoColor=white )
+![Act-on](https://img.shields.io/badge/Act-on-2C72B4?style=for-the-badge&logo=activecampaign&logoColor=white )
 ![Eloqua](https://img.shields.io/badge/Eloqua-E00000?style=for-the-badge&logo=oracle&logoColor=white )
 
 ### **AI & Content Tools**
@@ -175,12 +175,11 @@ I build marketing engines that generate consistent, predictable pipeline month a
 ![FullStory](https://img.shields.io/badge/FullStory-000000?style=for-the-badge&logo=fullstory&logoColor=white )
 ![Google Search Console](https://img.shields.io/badge/Google%20Search%20Console-4285F4?style=for-the-badge&logo=googlesearchconsole&logoColor=white )
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white )
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black )
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white )
 
 ### **Automation & Integration**
-![Zapier](https://img.shields.io/badge/Zapier%20Expert-FF4A00?style=for-the-badge&logo=zapier&logoColor=white )
-![n8n](https://img.shields.io/badge/n8n%20Advanced-EA4B71?style=for-the-badge&logo=n8n&logoColor=white )
+![Zapier](https://img.shields.io/badge/Zapier%20-FF4A00?style=for-the-badge&logo=zapier&logoColor=white )
+![n8n](https://img.shields.io/badge/n8n%20-EA4B71?style=for-the-badge&logo=n8n&logoColor=white )
 ![Make](https://img.shields.io/badge/Make.com-6366F1?style=for-the-badge&logo=integromat&logoColor=white )
 ![API](https://img.shields.io/badge/Custom%20APIs-00D9FF?style=for-the-badge&logo=fastapi&logoColor=white )
 
